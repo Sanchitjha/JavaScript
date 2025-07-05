@@ -21,7 +21,7 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
-const newStringOne = "   Sanchit    "
+const newStringOne = "   Sanchitjha    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
