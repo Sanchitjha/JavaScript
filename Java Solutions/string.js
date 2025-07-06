@@ -22,7 +22,7 @@ const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
 const newStringOne = "   Sanchitjha    "
-console.log(newStringOne);
+console.log(newStringOne); 
 console.log(newStringOne.trim());
 
 const url = "https://google.com/google%20choudhary"
